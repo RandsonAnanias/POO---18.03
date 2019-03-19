@@ -55,7 +55,7 @@ public class PrincipalPessoa {
 				
 			}
 			while (opcao != 0);
-			
+			entrada.close();
 		}
 }
 

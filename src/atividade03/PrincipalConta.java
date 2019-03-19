@@ -46,6 +46,7 @@ public class PrincipalConta {
 				break;
 			}
 		} while (opcao != 0);
+		entrada.close();
 	}
 
 }
