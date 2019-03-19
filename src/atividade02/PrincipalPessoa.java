@@ -16,7 +16,7 @@ public class PrincipalPessoa {
 				System.out.println("   2 - Sexo          |");
 				System.out.println("   3 - Idade         |");
 				System.out.println("   0 - Sair          |");
-				System.out.println("  ==============ssd===========\n");
+				System.out.println("  =========================\n");
 				opcao = entrada.nextInt();
 				
 				System.out.print("\n");
